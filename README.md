@@ -59,5 +59,6 @@
 ## Misc 
 
 - *[Solgrep](https://github.com/tintinweb/solgrep)*
+- *[dΞth tools](https://tools.deth.net/eth-unit-conversion)* 
 
 - *[Snekmate](https://github.com/pcaversaccio/snekmate)*
