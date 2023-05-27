@@ -61,7 +61,7 @@
 
 - _[dΞth tools](https://tools.deth.net/eth-unit-conversion)_
 
--_[ETH Converter](https://eth-converter.com/)_
+- _[ETH Converter](https://eth-converter.com/)_
 
 - _[Etheno](https://github.com/crytic/etheno)_
 
