@@ -14,6 +14,12 @@
 
 - *[Brownie](https://github.com/eth-brownie/brownie)*
 
+- *[Ape](https://github.com/ApeWorX/ape)*
+
+- *[Pyrometer](https://github.com/nascentxyz/pyrometer)*
+
+- *[Etheno](https://github.com/crytic/etheno)*
+
 ## Static Analysis & Symbolic Execution 
 
 - *[Halmos](https://github.com/a16z/halmos)* 
@@ -26,9 +32,15 @@
 
 - *[Slither](https://github.com/crytic/slither)*
 
+- *[Slitherin](https://github.com/pessimistic-io/slitherin)*
+
+- *[Solstat](https://github.com/0xKitsune/solstat)*
+
 ## Fuzzing 
 
 - *[Echidna](https://github.com/crytic/echidna)*
+
+- *[Ityfuzz](https://github.com/fuzzland/ityfuzz)*
 
 ## LSPs 
 
@@ -41,8 +53,11 @@
 
 - *[Solhint](https://github.com/protofire/solhint)*
 
+- *[Scopelint](https://github.com/ScopeLift/scopelint)*
+
 
 ## Misc 
 
 - *[Solgrep](https://github.com/tintinweb/solgrep)*
 
+- *[Snekmate](https://github.com/pcaversaccio/snekmate)*
