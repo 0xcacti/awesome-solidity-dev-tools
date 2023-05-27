@@ -14,6 +14,8 @@
 
 - *[Brownie](https://github.com/eth-brownie/brownie)*
 
+- *[Ape](https://github.com/ApeWorX/ape)*
+
 ## Static Analysis & Symbolic Execution 
 
 - *[Halmos](https://github.com/a16z/halmos)* 
@@ -40,6 +42,8 @@
 ## Linting 
 
 - *[Solhint](https://github.com/protofire/solhint)*
+
+- *[Scopelint](https://github.com/ScopeLift/scopelint)*
 
 
 ## Misc 
