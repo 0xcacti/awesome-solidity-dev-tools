@@ -8,62 +8,60 @@
 
 - _[Foundry](https://github.com/foundry-rs/foundry)_
 
-- *[Dapptools](https://github.com/dapphub/dapptools)
+- _[Dapptools](https://github.com/dapphub/dapptools)_
 
-- *[Hardhat](https://github.com/NomicFoundation/hardhat)* 
+- _[Hardhat](https://github.com/NomicFoundation/hardhat)_
 
-- *[Truffle](https://github.com/trufflesuite/truffle)* 
+- _[Truffle](https://github.com/trufflesuite/truffle)_
 
-- *[Brownie](https://github.com/eth-brownie/brownie)*
+- _[Brownie](https://github.com/eth-brownie/brownie)_
 
-- *[Ape](https://github.com/ApeWorX/ape)*
-
-
-## Static Analysis & Symbolic Execution 
-
-- *[Halmos](https://github.com/a16z/halmos)* 
-
-- *[Certora](https://www.certora.com/)* 
-
-- *[Manticore](https://github.com/trailofbits/manticore)*
-
-- *[Pyrometer](https://github.com/nascentxyz/pyrometer)*
-
-- *[Slither](https://github.com/crytic/slither)*
-
-- *[Slitherin](https://github.com/pessimistic-io/slitherin)*
-
-- *[Solstat](https://github.com/0xKitsune/solstat)*
-
-## Fuzzing 
-
-- *[Echidna](https://github.com/crytic/echidna)*
-
-- *[Ityfuzz](https://github.com/fuzzland/ityfuzz)*
-
-## LSPs 
-
-- *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode)*
-
-- *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity)*
+- _[Ape](https://github.com/ApeWorX/ape)_
 
 
-## Linting 
+## Static Analysis & Symbolic Execution
 
-- *[Solhint](https://github.com/protofire/solhint)*
+- _[Halmos](https://github.com/a16z/halmos)_
 
-- *[Scopelint](https://github.com/ScopeLift/scopelint)*
+- _[Certora](https://www.certora.com/)_
+
+- _[Manticore](https://github.com/trailofbits/manticore)_
+
+- _[Pyrometer](https://github.com/nascentxyz/pyrometer)_
+
+- _[Slither](https://github.com/crytic/slither)_
+
+- _[Slitherin](https://github.com/pessimistic-io/slitherin)_
+
+- _[Solstat](https://github.com/0xKitsune/solstat)_
+
+## Fuzzing
+
+- _[Echidna](https://github.com/crytic/echidna)_
+
+- _[Ityfuzz](https://github.com/fuzzland/ityfuzz)_
+
+## LSPs
+
+- _[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode)_
+
+- _[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity)_
 
 
-## Misc 
+## Linting
 
-- *[Solgrep](https://github.com/tintinweb/solgrep)*
+- _[Solhint](https://github.com/protofire/solhint)_
 
-- *[dΞth tools](https://tools.deth.net/eth-unit-conversion)* 
-
-
-- *[Snekmate](https://github.com/pcaversaccio/snekmate)*
+- _[Scopelint](https://github.com/ScopeLift/scopelint)_
 
 
-- *[Etheno](https://github.com/crytic/etheno)*
+## Misc
+
+- _[Solgrep](https://github.com/tintinweb/solgrep)_
+
+- _[dΞth tools](https://tools.deth.net/eth-unit-conversion)_
+
+-_[ETH Converter](https://eth-converter.com/)_
+
+- _[Etheno](https://github.com/crytic/etheno)_
 
