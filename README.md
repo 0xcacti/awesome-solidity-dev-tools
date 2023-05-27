@@ -1,4 +1,3 @@
-# awesome-solidity-dev-tools
 <p align="center">
  <h2 align="center">awesome-solidity-dev-tools</h2>
  <p align="center">Quick awesome list to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here! </p>
