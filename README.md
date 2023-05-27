@@ -6,43 +6,51 @@
 
 ## ToolKits
 
-- *[Foundry](https://github.com/foundry-rs/foundry)* 
+- _[Foundry](https://github.com/foundry-rs/foundry)_
 
-- *[Hardhat](https://github.com/NomicFoundation/hardhat)* 
+- _[Hardhat](https://github.com/NomicFoundation/hardhat)_
 
-- *[Truffle](https://github.com/trufflesuite/truffle)* 
+- _[Truffle](https://github.com/trufflesuite/truffle)_
 
-- *[Brownie](https://github.com/eth-brownie/brownie)*
+- _[Brownie](https://github.com/eth-brownie/brownie)_
 
-## Static Analysis & Symbolic Execution 
+## Static Analysis & Symbolic Execution
 
-- *[Halmos](https://github.com/a16z/halmos)* 
+- _[Halmos](https://github.com/a16z/halmos)_
 
-- *[Certora](https://www.certora.com/)* 
+- _[Certora](https://www.certora.com/)_
 
-- *[Manticore](https://github.com/trailofbits/manticore)*
+- _[Manticore](https://github.com/trailofbits/manticore)_
 
-- *[Pyrometer](https://github.com/nascentxyz/pyrometer)*
+- _[Pyrometer](https://github.com/nascentxyz/pyrometer)_
 
-- *[Slither](https://github.com/crytic/slither)*
+- _[Slither](https://github.com/crytic/slither)_
 
-## Fuzzing 
+## Fuzzing
 
-- *[Echidna](https://github.com/crytic/echidna)*
+- _[Echidna](https://github.com/crytic/echidna)_
+- _[Foundry](https://book.getfoundry.sh/forge/fuzz-testing)_
 
-## LSPs 
+## LSPs
 
-- *[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode)*
+- _[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode)_
 
-- *[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity)*
+- _[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity)_
 
+## Linting
 
-## Linting 
+- _[Solhint](https://github.com/protofire/solhint)_
 
-- *[Solhint](https://github.com/protofire/solhint)*
+## Vulnerability Knowledge Bank
 
+- _[SWC Registry](https://swcregistry.io/)_
+- _[Solodit](https://solodit.xyz/)_
+- _[The Auditor Book](https://theauditorbook.com/)_
 
-## Misc 
+## Debugger
 
-- *[Solgrep](https://github.com/tintinweb/solgrep)*
+- _[Tenderly](https://tenderly.co)_
 
+## Misc
+
+- _[Solgrep](https://github.com/tintinweb/solgrep)_
