@@ -6,7 +6,9 @@
 
 ## ToolKits
 
-- *[Foundry](https://github.com/foundry-rs/foundry)* 
+- _[Foundry](https://github.com/foundry-rs/foundry)_
+
+- *[Dapptools](https://github.com/dapphub/dapptools)
 
 - *[Hardhat](https://github.com/NomicFoundation/hardhat)* 
 
@@ -16,9 +18,6 @@
 
 - *[Ape](https://github.com/ApeWorX/ape)*
 
-- *[Pyrometer](https://github.com/nascentxyz/pyrometer)*
-
-- *[Etheno](https://github.com/crytic/etheno)*
 
 ## Static Analysis & Symbolic Execution 
 
@@ -59,6 +58,12 @@
 ## Misc 
 
 - *[Solgrep](https://github.com/tintinweb/solgrep)*
+
 - *[dΞth tools](https://tools.deth.net/eth-unit-conversion)* 
 
+
 - *[Snekmate](https://github.com/pcaversaccio/snekmate)*
+
+
+- *[Etheno](https://github.com/crytic/etheno)*
+
