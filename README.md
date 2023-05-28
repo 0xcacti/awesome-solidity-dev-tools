@@ -55,6 +55,14 @@
 - _[Scopelint](https://github.com/ScopeLift/scopelint)_
 
 
+## Decompilers and Disassemblers
+
+- _[EtherVM](https://ethervm.io/decompile)_
+
+- _[Dedaub](https://library.dedaub.com/decompile)_
+
+- _[ETK](https://github.com/quilt/etk/)_
+
 ## Misc
 
 - _[Solgrep](https://github.com/tintinweb/solgrep)_
