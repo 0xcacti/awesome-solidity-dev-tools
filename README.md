@@ -41,6 +41,8 @@
 
 - _[Ityfuzz](https://github.com/fuzzland/ityfuzz)_
 
+- _[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi)_
+
 ## LSPs
 
 - _[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode)_
