@@ -18,6 +18,7 @@
 
 - _[Ape](https://github.com/ApeWorX/ape)_
 
+- _[thirdweb](https://github.com/thirdweb-dev)_
 
 ## Static Analysis & Symbolic Execution
 
@@ -49,13 +50,11 @@
 
 - _[Juan Blanco](https://github.com/juanfranblanco/vscode-solidity)_
 
-
 ## Linting
 
 - _[Solhint](https://github.com/protofire/solhint)_
 
 - _[Scopelint](https://github.com/ScopeLift/scopelint)_
-
 
 ## Misc
 
@@ -66,4 +65,3 @@
 - _[ETH Converter](https://eth-converter.com/)_
 
 - _[Etheno](https://github.com/crytic/etheno)_
-
