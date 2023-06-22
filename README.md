@@ -73,3 +73,5 @@
 - _[ETH Converter](https://eth-converter.com/)_
 
 - _[Etheno](https://github.com/crytic/etheno)_
+
+- _[Solidity 2 UML]([https://github.com/naddison36/sol2uml)_
