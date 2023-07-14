@@ -74,6 +74,8 @@
 
 - _[Etheno](https://github.com/crytic/etheno)_
 
+- _[Sothis](https://github.com/rainshowerLabs/sothis)_
+
 - _[Solidity 2 UML](https://github.com/naddison36/sol2uml)_
 
 - _[Vulcan](https://github.com/nomoixyz/vulcan)_
