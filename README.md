@@ -44,6 +44,8 @@
 
 - _[FuzzyDefi](https://github.com/0xNazgul/fuzzydefi)_
 
+- _[Medusa](https://github.com/crytic/medusa)_
+
 ## LSPs
 
 - _[Nomic Foundation](https://github.com/NomicFoundation/hardhat-vscode)_
@@ -76,6 +78,8 @@
 
 - _[Sothis](https://github.com/rainshowerLabs/sothis)_
 
+- _[diffusc](https://github.com/crytic/diffusc)_
+  
 - _[Solidity 2 UML](https://github.com/naddison36/sol2uml)_
 
 - _[Vulcan](https://github.com/nomoixyz/vulcan)_
