@@ -36,6 +36,8 @@
 
 - _[Solstat](https://github.com/0xKitsune/solstat)_
 
+- _[C4dit](https://github.com/byterocket/c4udit)_
+
 ## Fuzzing
 
 - _[Echidna](https://github.com/crytic/echidna)_
@@ -66,6 +68,8 @@
 
 - _[ETK](https://github.com/quilt/etk/)_
 
+- _[Heimdall](https://github.com/Jon-Becker/heimdall-rs)_
+
 ## Misc
 
 - _[Solgrep](https://github.com/tintinweb/solgrep)_
@@ -83,3 +87,5 @@
 - _[Solidity 2 UML](https://github.com/naddison36/sol2uml)_
 
 - _[Vulcan](https://github.com/nomoixyz/vulcan)_
+
+- _[Arbiter](https://github.com/primitivefinance/arbiter)
