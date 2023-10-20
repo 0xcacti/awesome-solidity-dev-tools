@@ -88,4 +88,4 @@
 
 - _[Vulcan](https://github.com/nomoixyz/vulcan)_
 
-- _[Arbiter](https://github.com/primitivefinance/arbiter)
+- _[Arbiter](https://github.com/primitivefinance/arbiter)_
